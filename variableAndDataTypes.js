@@ -4,3 +4,5 @@ var Pessoa = {
     bordao : 'Oloco Meu',
     Peso : 99.9 
 }
+
+var Famosos = ['Google', 'Twwiter', 'Facebook', 'Instagram'];
